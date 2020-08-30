@@ -1,0 +1,6 @@
+I am working on an application takes a livestream of you playing the piano and displays in real time the notes you are playing. 
+The motivation behind the app is that I take piano lessons but the onset of the coronavirus has forced those lessons to be held
+over Zoom. Sometimes the audio quality across video communication apps is degraded so it can be difficult to discern for an
+instructor what notes are being played. Transcribing the notes in real time and displaying them on the app allows the instructor
+to confirm which notes are being played. I tested the algorithm for these apps and did a write up for it as a graduate student. The
+paper describing this algorithms is in this directory. 
